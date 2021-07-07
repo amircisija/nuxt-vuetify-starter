@@ -1,6 +1,8 @@
 # nuxt-vuetify-template
 Basic Layout for nuxt + vuetify. Will add more Section for a proper Website Template
+ 
 
+[Demo] (https://nuxt-vuetify-template.netlify.app/)
 ## Build Setup
 
 ```bash
